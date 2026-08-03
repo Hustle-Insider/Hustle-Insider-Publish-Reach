@@ -2,7 +2,7 @@
 
 [![npm](https://img.shields.io/npm/v/@hustle-insider/publish-reach)](https://npmjs.com/package/@hustle-insider/publish-reach)
 [![PyPI](https://img.shields.io/pypi/v/hustle-insider-publish-reach)](https://pypi.org/project/hustle-insider-publish-reach)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21778807.svg)](https://doi.org/10.5281/zenodo.21778807)
 
 Hustle Insider Publish Reach helps businesses, founders and brands get their news and content in front of the right audience through strategic digital visibility and content distribution. Built by [HustleInsider.it.com](https://hustleinsider.it.com).
 
@@ -131,7 +131,7 @@ Hustle Insider · Publish Reach · Digital PR · SEO GEO Services · AI Visibili
 | NPM | https://npmjs.com/package/@hustle-insider/publish-reach |
 | PyPI | https://pypi.org/project/hustle-insider-publish-reach |
 | Hugging Face | https://huggingface.co/datasets/hustle-insider/publish-reach-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/21778807 |
 | Docs | https://hustle-insider-publish-reach.readthedocs.io |
 | SlideShare | https://www.slideshare.net/slideshow/hustle-insider-your-guide-to-startups-ai-saas-entrepreneurship/288980792 |
 | Pinterest | https://www.pinterest.com/hustleInsiderIt/ |
