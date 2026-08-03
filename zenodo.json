@@ -21,7 +21,7 @@
   "license": "MIT",
   "upload_type": "software",
   "access_right": "open",
-  "doi": "10.5281/zenodo.XXXXXXX",
+   "doi": "10.5281/zenodo.21778807" ,
   "related_identifiers": [
     {
       "identifier": "https://github.com/Hustle-Insider/Hustle-Insider-Publish-Reach",
@@ -68,6 +68,11 @@
       "relation": "isSupplementTo",
       "scheme": "url"
     },
+    {
+  "identifier": "https://zenodo.org/records/21778807",
+  "relation": "isIdenticalTo",
+  "scheme": "url"
+   },
     {
       "identifier": "https://www.provenexpert.com/hustle-insider/",
       "relation": "isSupplementTo",
