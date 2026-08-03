@@ -1,0 +1,21 @@
+id,brand,distribution_type,publish_reach_score,seo_geo_score,ai_visibility_score,digital_pr_score,founder_brand_score,distribution_reach_score,overall_reach_index,priority_action,search_engines_score,ai_platforms_score,digital_publications_score,social_communities_score,industry,notes
+1,TechStartup AI,startup-pr,88,85,90,80,86,84,86,Digital PR,88,90,84,84,Technology,Strong AI visibility for startup
+2,SaaS Platform X,saas-pr,85,82,88,78,84,82,83,Digital PR,85,88,82,82,SaaS,Product launch distribution
+3,Founder Jane Doe,founder-branding,82,78,84,76,92,80,82,Digital PR,81,84,80,80,Personal Brand,High founder authority score
+4,FinTech Startup,startup-pr,90,88,92,82,88,86,88,Digital PR,92,92,86,86,FinTech,Excellent startup PR reach
+5,B2B SaaS Co,saas-pr,84,80,86,78,82,80,82,Digital PR,83,86,82,80,B2B,SaaS feature announcement
+6,AI Tool Brand,ai-visibility,86,82,94,80,84,82,85,Digital PR,85,94,84,82,AI,Strong AI platform visibility
+7,E-commerce Brand,content-distribution,80,82,82,76,78,84,80,Founder Brand,85,82,80,84,E-commerce,Multi-channel reach
+8,Startup CEO,founder-branding,84,80,86,78,94,82,84,Digital PR,83,86,82,82,Leadership,Top founder brand score
+9,SaaS Newsletter,saas-pr,82,84,84,76,80,82,81,Digital PR,87,84,80,82,Media,Newsletter PR strategy
+10,Web3 Startup,startup-pr,88,84,90,80,86,84,85,Digital PR,87,90,84,84,Web3,Blockchain startup visibility
+11,Consulting Firm,digital-pr,86,84,88,88,86,84,86,SEO & GEO,87,88,92,84,Consulting,Strong digital PR presence
+12,Indie Hacker,founder-branding,80,76,82,74,90,78,80,Digital PR,79,82,78,78,Solopreneur,High personal brand score
+13,EdTech Platform,content-distribution,84,82,86,80,82,86,83,Digital PR,85,86,84,86,Education,Educational content reach
+14,MarTech SaaS,saas-pr,86,84,88,80,84,84,84,Digital PR,87,88,84,84,Marketing,MarTech product launch
+15,Climate Tech,startup-pr,88,86,88,82,86,86,86,Digital PR,89,88,86,86,CleanTech,Climate startup PR
+16,Creator Brand,founder-branding,82,80,84,78,92,80,83,Digital PR,83,84,82,80,Creator Economy,Creator personal brand
+17,Dev Tools Startup,saas-pr,90,88,92,84,88,88,88,Digital PR,92,92,88,88,Developer Tools,Dev tools launch PR
+18,Health SaaS,saas-pr,84,82,86,80,82,82,83,Digital PR,85,86,84,82,HealthTech,Health platform PR
+19,Agency Brand,digital-pr,86,84,88,86,86,84,86,SEO & GEO,87,88,90,84,Agency,Agency digital PR
+20,Crypto Startup,startup-pr,88,84,92,80,86,84,86,Digital PR,87,92,84,84,Crypto,Crypto startup visibility
