@@ -1,0 +1,41 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hustle-insider-publish-reach"
+version = "1.0.0"
+authors = [
+  { name = "HustleInsider.it.com", email = "info@hustleinsider.it.com" },
+]
+description = "Hustle Insider Publish Reach helps businesses, founders and brands get their news and content in front of the right audience through strategic digital visibility and content distribution."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Internet :: WWW/HTTP",
+    "Topic :: Office/Business",
+]
+keywords = [
+    "hustle-insider",
+    "publish-reach",
+    "digital-pr",
+    "seo-geo",
+    "ai-visibility",
+    "founder-branding",
+    "startup-pr",
+    "saas-pr",
+    "content-distribution",
+]
+
+[project.urls]
+Homepage = "https://hustleinsider.it.com"
+GitHub = "https://github.com/Hustle-Insider/Hustle-Insider-Publish-Reach"
+Documentation = "https://hustle-insider-publish-reach.readthedocs.io"
+PyPI = "https://pypi.org/project/hustle-insider-publish-reach"
+
+[project.scripts]
+hustle-insider-reach = "publish_reach:main"

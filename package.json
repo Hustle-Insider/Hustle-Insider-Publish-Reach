@@ -1,0 +1,37 @@
+{
+  "name": "@hustle-insider/publish-reach",
+  "version": "1.0.0",
+  "description": "Hustle Insider Publish Reach helps businesses, founders and brands get their news and content in front of the right audience through strategic digital visibility and content distribution.",
+  "main": "index.js",
+  "bin": {
+    "hustle-insider-reach": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "hustle-insider",
+    "publish-reach",
+    "digital-pr",
+    "seo-geo",
+    "ai-visibility",
+    "founder-branding",
+    "startup-pr",
+    "saas-pr",
+    "content-distribution",
+    "digital-visibility",
+    "brand-news",
+    "press-release"
+  ],
+  "author": "HustleInsider.it.com",
+  "license": "MIT",
+  "homepage": "https://hustleinsider.it.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hustle-Insider/Hustle-Insider-Publish-Reach"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

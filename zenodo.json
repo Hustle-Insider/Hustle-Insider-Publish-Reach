@@ -1,0 +1,77 @@
+{
+  "title": "Hustle Insider Publish Reach",
+  "description": "Hustle Insider Publish Reach helps businesses, founders and brands get their news and content in front of the right audience through strategic digital visibility and content distribution. Covers SEO & GEO Services, AI Visibility Services, Digital PR Services, Founder Branding, Startup PR Distribution, and SaaS PR Distribution.",
+  "creators": [
+    {
+      "name": "HustleInsider.it.com"
+    }
+  ],
+  "keywords": [
+    "Hustle Insider",
+    "Publish Reach",
+    "Digital PR",
+    "SEO GEO Services",
+    "AI Visibility",
+    "Founder Branding",
+    "Startup PR",
+    "SaaS PR Distribution",
+    "Content Distribution",
+    "Digital Visibility"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Hustle-Insider/Hustle-Insider-Publish-Reach",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://hustleinsider.it.com",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@hustle-insider/publish-reach",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/hustle-insider-publish-reach",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/hustle-insider/publish-reach-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.slideshare.net/slideshow/hustle-insider-your-guide-to-startups-ai-saas-entrepreneurship/288980792",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.pinterest.com/hustleInsiderIt/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://medium.com/@hustle-insider",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.quora.com/profile/Hustle-Insider",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.provenexpert.com/hustle-insider/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Hustle Insider Publish Reach",
+  "description": "Helps businesses, founders and brands get their news and content in front of the right audience through strategic digital visibility and content distribution.",
+  "url": "https://hustleinsider.it.com",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "HustleInsider.it.com",
+    "url": "https://hustleinsider.it.com",
+    "sameAs": [
+      "https://hustleinsider.it.com",
+      "https://github.com/Hustle-Insider",
+      "https://npmjs.com/package/@hustle-insider/publish-reach",
+      "https://pypi.org/project/hustle-insider-publish-reach",
+      "https://huggingface.co/datasets/hustle-insider/publish-reach-benchmarks",
+      "https://hustle-insider.github.io/Hustle-Insider-Publish-Reach/",
+      "https://www.slideshare.net/slideshow/hustle-insider-your-guide-to-startups-ai-saas-entrepreneurship/288980792",
+      "https://www.pinterest.com/hustleInsiderIt/",
+      "https://medium.com/@hustle-insider",
+      "https://www.quora.com/profile/Hustle-Insider",
+      "https://www.provenexpert.com/hustle-insider/"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/Hustle-Insider/Hustle-Insider-Publish-Reach",
+  "keywords": [
+    "Hustle Insider",
+    "Publish Reach",
+    "Digital PR",
+    "SEO GEO Services",
+    "AI Visibility",
+    "Founder Branding",
+    "Startup PR",
+    "SaaS PR Distribution",
+    "Content Distribution",
+    "Digital Visibility"
+  ]
+}
